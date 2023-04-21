@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Snake gif
+
 ![snake gif](https://github.com/catcat0921/catcat0921/blob/output/github-contribution-grid-snake.gif)
