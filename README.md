@@ -6,9 +6,6 @@
 
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=catcat0921" /> </div>
 
-<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=catcat0921" /> </div>
-
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=catcat0921&theme=xcode" /> </div>
 
 <!--
 **catcat0921/catcat0921** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
