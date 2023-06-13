@@ -2,9 +2,9 @@
 
 <p>&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catcat0921&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </p>
 
-<div align="center"> <img src="https://metrics.lecoq.io/catcat0921?template=classic&config.timezone=Asia%2FShanghai"> </div>
+<div align="left"> <img src="https://metrics.lecoq.io/catcat0921?template=classic&config.timezone=Asia%2FShanghai"> </div>
 
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=catcat0921" /> </div>
+<div align="left"> <img src="https://github-profile-trophy.vercel.app/?username=catcat0921" /> </div>
 
 
 <!--
